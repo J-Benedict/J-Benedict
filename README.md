@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">19 y.o | Anime | Often listens to music <br><br>- Currently a 3rd yr college student <br>- 📚 I'm currently learning new ways to improve my coding skills<br>- 🎵 Loves listening to J-Pop<br>- ✉️ email me: johnbenedict.hornilla@gmail.com</p>
+<p align="left">20 y.o | Anime | Often listens to music <br><br>- Currently a 3rd yr college student <br>- 📚 I'm currently learning new ways to improve my coding skills<br>- 🎵 Loves listening to J-Pop<br>- ✉️ email me: johnbenedict.hornilla@gmail.com</p>
 
 ###
 
@@ -59,10 +59,5 @@
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/946qt2hxb7kku7mg62vzv1vwo">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=946qt2hxb7kku7mg62vzv1vwo&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
 
 ###
